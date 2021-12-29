@@ -1,4 +1,4 @@
-module github.com/lxc/distrobuilder
+module github.com/egyptboy2003/distrobuilder
 
 go 1.16
 
