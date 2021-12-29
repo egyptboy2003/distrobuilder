@@ -4,7 +4,7 @@ go 1.16
 
 exclude github.com/rootless-containers/proto v0.1.0
 
-replace google.golang.org/grpc/naming => google.golang.org/grpc v1.29.1
+replace google.golang.org/grpc/naming => google.golang.org/grpc v1.27.0
 
 require (
 	github.com/flosch/pongo2 v0.0.0-20200913210552-0d938eb266f3
